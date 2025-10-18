@@ -35,7 +35,7 @@ VyaparDesk is a web-based inventory and product management system designed for s
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/sahilkr37/vyapardesk
+    git clone https://github.com/Kaushal-Kushwaha-0007/VyaparDesk
     cd cineguide
     ```
 
