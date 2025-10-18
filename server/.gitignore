@@ -1,0 +1,47 @@
+# Node.js Dependencies
+node_modules
+
+# Environment variables file (contains sensitive info)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directory for production builds (if any)
+dist/
+build/
+
+# IDE/editor specific folders and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Coverage reports (from testing)
+coverage/
+
+# Optional: Debug files
+*.log
+
+# Optional: lock files
+package-lock.json
+yarn.lock
+
+# Optional: Temporary files/folders
+tmp/
+temp/
+
+# Optional: npm cache folder
+.npm/
+
+# Optional: Mac system files
+.AppleDouble/
+.LSOverride
